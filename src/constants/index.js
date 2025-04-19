@@ -249,20 +249,19 @@ const testimonials = [
 
 const socialImgs = [
   {
-    name: "insta",
-    imgPath: "/images/insta.png",
-  },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    imgPath: "/images/x.png",
+    name: "github",
+    imgPath: "/images/github-white.png",
+    link: "https://github.com/bharat1002/",
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    link: "https://www.linkedin.com/in/bharat-chaudhary30839a1b5/",
+  },
+  {
+    name: "x",
+    imgPath: "/images/x.png",
+    link: "https://x.com/BharatAnjana102",
   },
 ];
 
